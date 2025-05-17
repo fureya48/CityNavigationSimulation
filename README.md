@@ -9,19 +9,20 @@ Proyek ini adalah simulasi sederhana dalam Java yang menggabungkan penggunaan st
 CityNavigationSimulation/
 │
 ├── bst/
-│ ├── BST.java # Struktur dan operasi pada Binary Search Tree (warga)
-│ └── BSTNode.java # Struktur node dalam BST
+│   ├── BST.java            # Struktur dan operasi pada Binary Search Tree (warga)
+│   └── BSTNode.java        # Struktur node dalam BST
 │
 ├── fasilitas/
-│ ├── Fasilitas.java # Representasi data fasilitas (kategori & lokasi)
-│ └── HashTable.java # Penyimpanan fasilitas menggunakan HashMap
+│   ├── Fasilitas.java      # Representasi data fasilitas (kategori & lokasi)
+│   └── HashTable.java      # Penyimpanan fasilitas menggunakan HashMap
 │
 ├── graph/
-│ ├── DijkstraResult.java # Menyimpan hasil algoritma Dijkstra
-│ └── Graph.java # Struktur graph dan algoritma Dijkstra
+│   ├── DijkstraResult.java # Menyimpan hasil algoritma Dijkstra
+│   └── Graph.java          # Struktur graph dan algoritma Dijkstra
 │
-├── Main.java # Entry point aplikasi: simulasi interaktif pengguna
-├── README.md # Dokumentasi proyek ini
+├── Main.java               # Entry point aplikasi: simulasi interaktif pengguna
+└── README.md               # Dokumentasi proyek ini
+
 
 
 ---
